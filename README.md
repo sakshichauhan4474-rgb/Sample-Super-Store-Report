@@ -38,3 +38,4 @@ Building reports that are both analytical and business-friendly
 📸 Screenshots
 Dashboard Overview – High-level KPIs and sales insights
 Regional Insights – Performance across different regions
+Dashboard Preview:https://github.com/sakshichauhan4474-rgb/Sample-Super-Store-Report/blob/main/Sample%20Super%20Report.png
