@@ -39,4 +39,4 @@ This project is an interactive Power BI dashboard built on the widely used Sampl
 - Dashboard Overview – High-level KPIs and sales insights
 - Regional Insights – Performance across different regions
 
-Dashboard Preview:https://github.com/sakshichauhan4474-rgb/Sample-Super-Store-Report/blob/main/Sample%20Super%20Report.png
+![Dashboard Preview].(https://github.com/sakshichauhan4474-rgb/Sample-Super-Store-Report/blob/main/Sample%20Super%20Report.png)
