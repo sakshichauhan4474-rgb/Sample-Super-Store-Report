@@ -2,18 +2,18 @@
 This project is an interactive Power BI dashboard built on the widely used Sample Superstore dataset. The main objective was to transform raw sales and profit data into clear, actionable insights that support better business decisions.
 
 🔑 Key Highlights
--Sales & Profit Overview – Tracked overall performance with dynamic KPIs.
--Regional Insights – Identified which regions generate the highest sales and profits.
--Category & Sub-Category Analysis – Highlighted best-performing product categories and those with tight profit margins.
--Customer & Order Trends – Explored patterns across different customer segments and order priorities.
--Interactive Features – Integrated slicers, filters, and tooltips for a smooth and user-friendly experience.
+1. Sales & Profit Overview – Tracked overall performance with dynamic KPIs.
+2. Regional Insights – Identified which regions generate the highest sales and profits.
+3. Category & Sub-Category Analysis – Highlighted best-performing product categories and those with tight profit margins.
+4. Customer & Order Trends – Explored patterns across different customer segments and order priorities.
+5. Interactive Features – Integrated slicers, filters, and tooltips for a smooth and user-friendly experience.
 
 🛠️ Tools & Techniques
-Power BI – interactive dashboard development and storytelling
-DAX – for calculated measures and KPIs
-Data Cleaning & Transformation – preparing raw data for visualization
-Visualization Techniques – charts, KPIs, maps, and interactive visuals for better insights
-Dashboard Design – focused on clarity, usability, and effective storytelling
+- Power BI – interactive dashboard development and storytelling
+- DAX – for calculated measures and KPIs
+- Data Cleaning & Transformation – preparing raw data for visualization
+- Visualization Techniques – charts, KPIs, maps, and interactive visuals for better insights
+- Dashboard Design – focused on clarity, usability, and effective storytelling
 
 ❓ Business Problems Addressed
 Which regions contribute the most to sales and profitability?
