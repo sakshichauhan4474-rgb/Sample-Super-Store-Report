@@ -2,11 +2,11 @@
 This project is an interactive Power BI dashboard built on the widely used Sample Superstore dataset. The main objective was to transform raw sales and profit data into clear, actionable insights that support better business decisions.
 
 🔑 Key Highlights
-Sales & Profit Overview – Tracked overall performance with dynamic KPIs.
-Regional Insights – Identified which regions generate the highest sales and profits.
-Category & Sub-Category Analysis – Highlighted best-performing product categories and those with tight profit margins.
-Customer & Order Trends – Explored patterns across different customer segments and order priorities.
-Interactive Features – Integrated slicers, filters, and tooltips for a smooth and user-friendly experience.
+-Sales & Profit Overview – Tracked overall performance with dynamic KPIs.
+-Regional Insights – Identified which regions generate the highest sales and profits.
+-Category & Sub-Category Analysis – Highlighted best-performing product categories and those with tight profit margins.
+-Customer & Order Trends – Explored patterns across different customer segments and order priorities.
+-Interactive Features – Integrated slicers, filters, and tooltips for a smooth and user-friendly experience.
 
 🛠️ Tools & Techniques
 Power BI – interactive dashboard development and storytelling
