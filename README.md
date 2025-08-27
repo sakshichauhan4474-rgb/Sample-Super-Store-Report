@@ -1,4 +1,4 @@
-📊 Sample Superstore Power BI Report
+# 📊 Sample Superstore Power BI Report
 This project is an interactive Power BI dashboard built on the widely used Sample Superstore dataset. The main objective was to transform raw sales and profit data into clear, actionable insights that support better business decisions.
 
 🔑 Key Highlights
