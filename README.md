@@ -35,3 +35,6 @@ Designing dashboards with a balance of functionality and aesthetics
 Extracting meaningful insights rather than just visualizing data
 Building reports that are both analytical and business-friendly
 
+📸 Screenshots
+Dashboard Overview – High-level KPIs and sales insights
+Regional Insights – Performance across different regions
